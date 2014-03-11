@@ -1,4 +1,4 @@
-# IEEE Paper Collection
+# IEEE Paper Collection Repository
 
 ## The Collection of IEEE Papers
 
